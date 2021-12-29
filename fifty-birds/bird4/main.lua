@@ -4,7 +4,6 @@
 
     bird4
     "The Anti-Gravity Update"
-    cogden@cs50.harvard.edu
 
     A mobile game by Dong Nguyen that went viral in 2013, utilizing a very simple 
     but effective gameplay mechanic of avoiding pipes indefinitely by just tapping 
