@@ -1,6 +1,5 @@
 -- push.lua v0.4
 
--- Copyright (c) 2020 Ulysse Ramage
 
 local love11 = love.getVersion() == 11
 local getDPI = love11 and love.window.getDPIScale or love.window.getPixelScale
