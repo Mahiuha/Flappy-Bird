@@ -1,11 +1,3 @@
---[[
-Copyright (c) 2010-2013 Matthias Richter
-
-
-
-
-]]--
-
 local function include_helper(to, from, seen)
 	if from == nil then
 		return to
