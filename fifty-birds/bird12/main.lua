@@ -1,12 +1,10 @@
 --[[
-    GD50 2018
     Flappy Bird Remake
 
     bird12
     "The Mouse Update"
 
-    Author: Colton Ogden
-    cogden@cs50.harvard.edu
+    Author: Joseph Mahiuha
 
     A mobile game by Dong Nguyen that went viral in 2013, utilizing a very simple 
     but effective gameplay mechanic of avoiding pipes indefinitely by just tapping 

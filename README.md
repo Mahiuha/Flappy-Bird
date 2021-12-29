@@ -29,7 +29,3 @@
 * To play use the spacebar on your keyboard.
 
 * Make sure not to hit any pipes, Happy Gaming!
-
-### DEMO.
-
-![Screenshot from 2021-12-29 03-00-31](https://user-images.githubusercontent.com/35099243/147650809-f4da21d6-8ae6-4009-9998-f95b01ebca5e.png)
