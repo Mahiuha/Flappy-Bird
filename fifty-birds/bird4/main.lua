@@ -1,6 +1,4 @@
 --[[
-    GD50
-    Flappy Bird Remake
 
     bird4
     "The Anti-Gravity Update"
