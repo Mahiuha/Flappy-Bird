@@ -1,6 +1,5 @@
 --[[
     Bird Class
-    Author: Colton Ogden
     cogden@cs50.harvard.edu
 
     The Bird is what we control in the game via clicking or the space bar; whenever we press either,
