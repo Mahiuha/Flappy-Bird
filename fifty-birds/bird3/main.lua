@@ -1,6 +1,4 @@
 --[[
-    GD50
-    Flappy Bird Remake
 
     bird3
     "The Gravity Update"
