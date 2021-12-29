@@ -18,7 +18,7 @@
 
 * Next navigate to the folder in terminal using ``` cd Fifty-Bird ```
 
-* Next navigate to the final project which is bird12 using ``` cd bird12 ``
+* Next navigate to the final project which is bird12 using ``` cd bird12 ```
 
 * Now render the game in love2d in terminal using ``` love . ```
 
