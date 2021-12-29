@@ -1,7 +1,4 @@
 --[[
-    Countdown State
-    Author: Colton Ogden
-    cogden@cs50.harvard.edu
 
     Counts down visually on the screen (3,2,1) so that the player knows the
     game is about to begin. Transitions to the PlayState as soon as the
