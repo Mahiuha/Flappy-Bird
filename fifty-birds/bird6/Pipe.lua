@@ -1,7 +1,5 @@
 --[[
     Pipe Class
-    Author: Colton Ogden
-    cogden@cs50.harvard.edu
 
     The Pipe class represents the pipes that randomly spawn in our game, which act as our primary obstacles.
     The pipes can stick out a random distance from the top or bottom of the screen. When the player collides
