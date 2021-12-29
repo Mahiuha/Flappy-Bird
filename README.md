@@ -29,3 +29,6 @@
 * To play use the spacebar on your keyboard.
 
 * Make sure not to hit any pipes, Happy Gaming!
+
+### DEMO.
+
