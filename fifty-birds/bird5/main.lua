@@ -1,6 +1,4 @@
 --[[
-    GD50
-    Flappy Bird Remake
 
     bird5
     "The Infinite Pipe Update"
