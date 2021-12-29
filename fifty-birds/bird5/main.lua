@@ -4,8 +4,6 @@
 
     bird5
     "The Infinite Pipe Update"
-
-    Author: Colton Ogden
     cogden@cs50.harvard.edu
 
     A mobile game by Dong Nguyen that went viral in 2013, utilizing a very simple 
